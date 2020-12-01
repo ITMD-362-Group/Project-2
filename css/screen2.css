@@ -1,6 +1,6 @@
 body {
 	background-image: url(../css/background.jpg);
-    background-size: 1800px 900px;
+    background-size: 100% 100%;
 }
 h1 {
   color: white;
