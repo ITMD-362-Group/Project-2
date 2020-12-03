@@ -4,7 +4,8 @@ body {
   background-size: 1800px 900px;
 }
 h1 {
-  color: white;
+  color: black;
+  font-weight: bold;
   padding: 5px 10px;
   font-family: Optima, sans-serif;
   border: 3px outset silver;
